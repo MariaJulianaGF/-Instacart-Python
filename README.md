@@ -1,20 +1,12 @@
 # Python
-Instacart_Analysis
-This is the analysis of Instacart Grocery Basket to identify sales pattern using Python. Essentially, this project is part of the careerfoundry Data Analytics course.
+Instacart Analysis
+Analysis of Instacart data to identify sales pattern using Python as part of the careerfoundry Data Analytics course.
 
 Objective
-Instacart is an online grocery store that operates through an app. Although the company has a good sales record, they would like to gain more insights above their sales pattern in other to segement their customer based on their profiles, create personalised marketing campaigns and observe the effects this would have of the listed products
+Instacart is a North-American grocery delivery and pick-up service looking to improve the targeting of their advertising strategy using analysis of their customer and sales data to generate insights into what this strategy should look like.
 
 Data
-The data used is an open source data by Instacart from 2017 and it is available here
+Opensource data from 2017 made available by Instacart here.
 
-Tools
-This project uses Excel and Python. Essentially, the following tools/libraries was employed in python
-
-Anaconda 3
-Jupyter Notebook
-Pandas
-Seaborn
-Matplotlib
-Scipy
-Numpy
+Result
+Main questions this analysis is trying to answer is what indicators can be used to predict customer ordering behaviour with regards to time, location and types of products. Out of these time has the biggest impact as the majority of customers place their orders in the morning, with no particular regional differences in spending habits.
